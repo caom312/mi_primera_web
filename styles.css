@@ -245,6 +245,11 @@ a:active{
     display: none;
 }*/
 
+.greeting p{
+    font-size: 5em;
+    color: red;
+}
+
 .checkbtn{
     font-size: 25px;
     color:white;
